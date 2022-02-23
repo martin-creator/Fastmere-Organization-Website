@@ -1,0 +1,19 @@
+/* your styles go here */
+
+#changeBg{
+    background-color: #022C07;
+}
+
+.text-primary{
+    color: #022C07 !important;
+}
+
+.btn{
+    background-color: #022C07 !important;
+}
+
+#changeFon{
+    color:#022C07 !important; 
+}
+
+

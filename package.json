@@ -1,0 +1,14 @@
+{
+  "name": "fastmere-website",
+  "version": "1.0.0",
+  "description": "Readme for Iso | Corporate Bootstrap template by Bootstrapious \r  - https://bootstrapious.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Lubowa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
